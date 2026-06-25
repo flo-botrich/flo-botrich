@@ -1,8 +1,11 @@
 # README
 
-## Hallo allerseits 👋
+> [!TIP}
+> ...
 
-**flo-botrich/flo-botrich** ist ein ✨ _specielles_ ✨ Repositori weil es sich um meine `README.md` (diese Datei) handelt und auf mein Github profil angewandt wird.
+## Hallo allerseits ✋
+
+**flori/flo-botrich** ist ein ✨ _specielles_ ✨ Repositori weil es sich um meine `README.md` (diese Datei) handelt und auf mein Github profil angewandt wird.
 
 Hier sind ein paar Ideen mit den wir starten können:
 
@@ -57,7 +60,7 @@ A brief description of what this project does and why it is useful.
 
 - [LinkedIn](https://www.linkedin.com/in/flo-botrich/)
 - [Twitter](https://twitter.com/flo_botrich)
-- [Personal Website](https://www.flo-botrich.com)
+- [Persönliches Profil](https://github.com/flo-botrichhttps://github.com/flo-botrich/)
 
 Danke das du vorbei geschaut hast! Fühl dich frei meine Repositories zu erkunden und schreibe mir, wenn du mich unterstützen möchtest.
 
