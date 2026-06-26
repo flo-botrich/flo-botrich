@@ -31,14 +31,14 @@ Willkommen auf meinem GitHub Profil! Ich bin passionierter Linux-Benutzerund mö
 
 ## Technische Stack
 
-Here are some of the technologies I work with:
+Hier findest du einige Technologien mit denen ich Arbeite:
 
-- **Sprachen**: Python, JavaScript, HTML, CSS, Markdown, PHP, 
-- **Programmierumgebung**: React, Django, Flask
+- **Sprachen**: Markdown, HTML, CSS, Python, Gimp, JavaScript
+- **Entwicklungsumgebung**: ..., 
 - **Werkzeuge**: Git, Docker, VS Code
-- **Datenbanken**: MySQL, MongoDB, PostgreSQL, PHPMyAdmin
-
-## Projekte
+- **Datenbanken**: MySQL, PostgreSQL
+---
+## Meine Lieblinge Projekte
 
 ### [Projekt 1: Awesome Project](https://github.com/flo-botrich/awesome-project)
 A brief description of what this project does and why it is useful.
@@ -52,12 +52,14 @@ A brief description of what this project does and why it is useful.
 ## GitHub Statistiken
 
 ![Flo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flo-botrich&show_icons=true&theme=radical)
+---
+## Verbinde dich mit Mir
+- 📫 [via Mail](mailto:flo.botrich@)
+- ⚡ [Forom](https://github.com/discussions)
+- ✨📆✨ [Webseite](https://flo-botrich.github.io/flo-botrich/)
+- 😄 [Profil](https://github.com/flo-botrich)
 
-## Connect with Me
+Danke das du vorbei geschaut hast! Fühl dich frei meine Repositories zu erkunden und schreibe mir, wenn du mich unterstützen möchtest.
 
-- [LinkedIn](https://www.linkedin.com/in/flo-botrich/)
-- [Twitter](https://twitter.com/flo_botrich)
-- [Personal Website](https://www.flo-botrich.com)
-
-Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate or just have a chat.
+* * * 
 
