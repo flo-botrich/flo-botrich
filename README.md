@@ -1,6 +1,6 @@
 # README
 
-> [!TIP}
+> [!TIP]
 > ...
 
 ## Hallo allerseits ✋
@@ -9,19 +9,20 @@
 
 Hier sind ein paar Ideen mit den wir starten können:
 
-- 🔭 Ich arbeite gerade an ...
+- 👷 Ich arbeite gerade an ...
 - 🌱 Ich lerne gerade Einsteiger-Code&Script-bearbeitung in Markdown,  XML, HTML, JSON, PHP, JAVA und PYTHON
 - 👯 Ich möchte gerne Open source projekte erstellen und Unterstützen ...
 - 🤔 Ich brauche Hilfe mit ...
-- 💬 Fragt mich etwas ...
+-  Fragt mich etwas ...
 
 - 📫 Wie könnt ihr mich erreichen: 
 - 😄 Pronomen: Ich Du ER Sie Es und alle dazwischen und Außerhalb  ...
 - ⚡ Lustige Fakten: ...
 
-# Hallo allerseits, Ich bin Flo Botrich! 👋
+# Hallo allerseits, Ich bin Flo Botrich! 💐
 
-Willkommen auf meinem GitHub Profil! Ich bin passionierter Linux-Benutzerund möchte gerne Code entwickeln lernen. Außerdem mag ich coden&scripten erlernen, und teile gern mein Wissen mit der Gemeinschaft. Weiter Unten findest du mehr Informationen Über Mich und Meine Projekte.
+*Willkommen auf meinem GitHub Profil! Ich bin passionierter Linux-Benutzer und möchte gerne Coden & Skripten erlernen.
+Ich teile gern meine Erfahrungen mit der Gemeinschaft. Weiter Unten findest du mehr Informationen Über Mich und Meine Projekte.
 
 ## Über Mich
 
@@ -41,7 +42,7 @@ Hier findest du einige Technologien mit denen ich Arbeite:
 - **Werkzeuge**: Git, Docker, VS Code
 - **Datenbanken**: MySQL, PostgreSQL
 
-## Projekte
+## Meine Lieblinge Projekte
 
 ### [Projekt 1: Awesome Project](https://github.com/flo-botrich/awesome-project)
 A brief description of what this project does and why it is useful.
@@ -52,15 +53,16 @@ A brief description of what this project does and why it is useful.
 ### [Projekt 3: Yet Another Project](https://github.com/flo-botrich/yet-another-project)
 A brief description of what this project does and why it is useful.
 
-## GitHub Stats
+## GitHub Statistiken
 
 ![Flo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flo-botrich&show_icons=true&theme=radical)
 
 ## Verbinde dich mit Mir
 
-- [LinkedIn](https://www.linkedin.com/in/flo-botrich/)
-- [Twitter](https://twitter.com/flo_botrich)
-- [Persönliches Profil](https://github.com/flo-botrichhttps://github.com/flo-botrich/)
+- [Forom](https://github.com/discussions)
+- [Webseite](https://flo-botrich.github.io/flo-botrich/)
+- [Profil](https://github.com/flo-botrich)
 
 Danke das du vorbei geschaut hast! Fühl dich frei meine Repositories zu erkunden und schreibe mir, wenn du mich unterstützen möchtest.
+
 
