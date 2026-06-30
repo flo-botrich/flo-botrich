@@ -1,0 +1,8 @@
+<!-- 
+GitHub Pages-Aktion
+GitHub Actions für GitHub Pages 🚀 Statische Dateien bereitstellen und Ihre Website einfach veröffentlichen. Kompatibel mit statischen Website-Generatoren. 
+
+https://github.com/peaceiris/actions-gh-pages
+-->
+- name: GitHub Pages action
+  uses: peaceiris/actions-gh-pages@v4.1.0
