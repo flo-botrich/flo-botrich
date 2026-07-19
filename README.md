@@ -26,7 +26,7 @@ Willkommen auf meinem GitHub Profil! Ich bin passionierter Linux-Benutzerund mö
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [flo.botrich@example.com](mailto:flo.botrich@example.com)
+- 📫 How to reach me: [flo.botrich@example.com](mailto:104339828+flo-botrich@users.noreply.github.com)
 - ⚡ Lustige Fakten: Ich Wandere und Fotografiere gerne in meiner Freizeit.
 
 ## Technische Stack
